@@ -9,7 +9,14 @@ https://github.com/lcscamachoo
 
 Pré-Requisitos
 
-https://www.postman.com/
-https://po-ui.io/
+1) https://www.postman.com/
+
+2) https://my-json-server.typicode.com/
+
+3) https://github.com/mobilecosta/painel
+
+4) https://po-ui.io/
+
+Integrações
 
 https://developer.omie.com.br/service-list/
