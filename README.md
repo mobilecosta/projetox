@@ -17,6 +17,11 @@ Pré-Requisitos
 
 4) https://po-ui.io/
 
-Integrações
+OMIE - Acessos
 
+https://app.omie.com.br
+
+Usuario: mobile.costa@gmail.com - Senha: 303351@Wag
+
+OMIE - Integrações
 https://developer.omie.com.br/service-list/
