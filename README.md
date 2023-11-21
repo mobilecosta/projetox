@@ -21,6 +21,10 @@ Pré-Requisitos
 
 4) https://po-ui.io/
 
+5) https://postgrest.org/en/stable/
+
+6) https://go.dev/
+
 OMIE - Acessos
 
 https://app.omie.com.br
