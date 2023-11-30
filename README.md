@@ -23,7 +23,7 @@ Pré-Requisitos
 
 5) https://postgrest.org/en/stable/
 
-6) https://go.dev/
+6) https://go.dev/ - Projeto Exemplo: https://github.com/enieber/mag
 
 OMIE - Acessos
 
